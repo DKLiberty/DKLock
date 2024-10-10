@@ -8,7 +8,7 @@
 - **Encrypted Storage**: PIN codes are securely encrypted using SHA-256 and stored in an SQLite database.
 - **Automatic Setup**: If no PIN exists, the app prompts the user to create one during the first run.
 - **User-Friendly Interface**: Clean and simple interface for easy PIN entry.
-- **System Shortcut Blocking**: Prevents certain system shortcuts (e.g., `Win + Tab`) to avoid bypassing the lock.
+- **System Shortcut Blocking**: Prevents certain system shortcuts to avoid bypassing the lock.
 
 ## Installation
 
