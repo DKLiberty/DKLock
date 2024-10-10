@@ -44,7 +44,7 @@
 ## Security
 
 - PIN codes are encrypted with **SHA-256** before being stored in the SQLite database for added security.
-- DKLock blocks certain system shortcuts (such as `Win + Tab`) to prevent users from bypassing the lock screen.
+- DKLock blocks certain system shortcuts to prevent users from bypassing the lock screen.
 
 ## Future Improvements
 
