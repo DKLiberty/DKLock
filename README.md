@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you have any questions or need help, feel free to open a discussion or issue. You can also connect with us in the [General Discussion](https://github.com/yourusername/DKLock/discussions) to chat with the community.
+If you have any questions or need help, feel free to open a discussion or issue. You can also connect with us in the [General Discussion](https://github.com/DKLiberty/DKLock/discussions) to chat with the community.
